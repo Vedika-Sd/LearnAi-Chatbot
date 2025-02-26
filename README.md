@@ -60,7 +60,7 @@ This project is open-source under the **MIT License**.
 ---
 ### 🚀 Start your AI/ML learning journey with LearnAI today! 🚀
 
-###🚀 My First AI/ML Project
+### 🚀 My First AI/ML Project
 This chatbot marks the beginning of my AI/ML journey. As my first project, it helped me understand NLP, intent recognition, and basic ML models. While simple now, I plan to enhance it with advanced NLP techniques, contextual understanding, and dynamic recommendations in the future.
 
 
